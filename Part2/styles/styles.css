@@ -25,30 +25,37 @@ img[src*='head_'] {
     border: 2px solid #CC1C0D;
 }
 
-.pricing div:nth-child(1) {
+.table {
     float: left;
     border: 1px solid #000000;
-    border-bottom: 1px solid #CC1C0D ;
     border-radius: 10px;
+    text-align: center;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 14.5em;
 }
 
-.pricing div:nth-child(2) {
-    float: left;
-    border: 1px solid #000000;
-    border-bottom: 1px solid #CC1C0D ;
-    border-radius: 10px;
+.pricing div:nth-child(1) h3 {
+    border-top: 1px solid #CC1C0D ;
+    border-width: 10px;
 }
 
-.pricing div:nth-child(3) {
-    float: left;
-    border: 1px solid #000000;
-    border-bottom: 1px solid #CC1C0D ;
-    border-radius: 10px;
+.pricing div:nth-child(2) h3 {
+    border-top: 1px solid #37A4A4 ;
+    border-width: 10px;
 }
 
+.pricing div:nth-child(3) h3 {
+    border-top: 1px solid #685288 ;
+    border-width: 10px;    
+}
 .pricing div:nth-child(4) {
-    float: left;
-    border: 1px solid #000000;
-    border-bottom: 1px solid #CC1C0D ;
-    border-radius: 10px;
+    padding-top: 25px;
+}
+
+.pricing div:nth-child(4) h3 {
+    border-top: 1px solid #000000 ;
+    border-width: 10px;  
 }
