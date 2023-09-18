@@ -27,8 +27,8 @@ img[src*='head_'] {
     margin-right: 10px;
 }
 
-img[src*='logo_'] {
-    float: left;
+#vprospect, #vconvert, #vretain {
+    font-weight: bold;
 }
 
 .table {
