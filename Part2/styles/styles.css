@@ -24,6 +24,7 @@ img[src*='head_'] {
     float: left;
     border-radius: 50px;
     border: 2px solid #CC1C0D;
+    margin-right: 10px;
 }
 
 img[src*='logo_'] {
