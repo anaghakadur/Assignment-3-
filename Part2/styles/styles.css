@@ -5,6 +5,7 @@ body {
 
 ul:first-of-type {
     list-style-type: none;
+    padding:0%
 }
 
 h2 {
