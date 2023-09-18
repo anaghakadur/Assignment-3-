@@ -26,6 +26,10 @@ img[src*='head_'] {
     border: 2px solid #CC1C0D;
 }
 
+img[src*='logo_'] {
+    float: left;
+}
+
 .table {
     float: left;
     border: 1px solid #000000;
